@@ -1,0 +1,25 @@
+body {
+  font-family: Helvetica, Arial, Verdana, sans-serif;
+  background: url(../img/brick-wall.JPG) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;}
+
+#info {
+  background-color: rgba(0,0,0,0.85);
+  width: 350px;
+  padding: 20px;
+  border-radius: 5px;;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;}
+
+h1 {
+  color: #ffffff;
+  font-weight: 200;
+  margin-top: 5px;
+  margin-bottom: 5px;}
+
+h3 {
+  color: #ff7700;
+  margin-top: 0px;
+  font-weight: 200;}
